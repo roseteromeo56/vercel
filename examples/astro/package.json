@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@astrojs/vercel": "8.0.1",
-    "astro": "^5.1.1",
+    "astro": "^6.3.2",
     "react": "18.3.1"
   }
 }
